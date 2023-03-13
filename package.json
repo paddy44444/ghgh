@@ -1,0 +1,25 @@
+{
+  "name": "eku1hp",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "grunt",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "jszip": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thomaswilburn/Caret.git"
+  },
+  "license": "GPL-3.0",
+  "description": null,
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
